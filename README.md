@@ -1,6 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Starting Out...
+
+This project is being created as a way to learn Next.js and practice React skills by building on the book-browser-initial repository.  Once full-stack MVP is achieved, the React components will be re-factored using hooks in order to practice this skill.
+
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
